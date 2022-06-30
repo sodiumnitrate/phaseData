@@ -9,12 +9,7 @@ import sys
 #-------------------------------------------------#
 #    This is a short script that aims to          #
 #    automate the free energy calculations,       #
-#    given the data. See accompanying Jupyter     #
-#    notebook to see how these defined methods    #
-#    and objects are used.                        #
-#                                                 #
-#    Written by Irem Altan (2018)                 #
-#    (contact irem.altan@gmail.com for questions) #
+#    given the data.                              #
 #-------------------------------------------------#
 #*************************************************#
 
